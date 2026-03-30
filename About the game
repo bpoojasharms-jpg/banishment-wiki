@@ -2,6 +2,15 @@
   <html>
     <head>
     <title> about Banishment </title>
+	<style>
+		body {
+backgound-color: cyan;
+color: green;
+font-family: "georgia", Arial, sans serif;
+margin: 0;
+line-height:2;
+}
+</style>
     <body>
     <h1> Banishment </h1>
     <h2> banishment is a game on roblox by happy sloth </h2>
